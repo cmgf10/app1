@@ -1,0 +1,8 @@
+{
+	"name":"Node.js Getting startedc",
+	"description": "A barebones Node,js app using express",
+	"repository": "https://github/cmgf10/app",
+	"logo": "http://cmgf10-app.herokuapp.com/node.svg",
+	"keywords": ["node", "express", "game"],
+	"image": "heroku/nodejs"
+}
